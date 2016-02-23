@@ -1,0 +1,420 @@
+[20:41:10] [Server thread/INFO]: Starting minecraft server version 1.7.2
+[20:41:10] [Server thread/INFO]: Loading properties
+[20:41:10] [Server thread/INFO]: Default game type: SURVIVAL
+[20:41:10] [Server thread/INFO]: Generating keypair
+[20:41:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:41:11] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-1.7.2-R0.3-b3020jnks (MC: 1.7.2) (Implementing API version 1.7.2-R0.3)
+[20:41:14] [Thread-8/WARN]: Exception in thread "Thread-8" 
+[20:41:14] [Thread-8/WARN]: org.bukkit.craftbukkit.libs.com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 7
+[20:41:14] [Thread-8/WARN]: 	at org.bukkit.craftbukkit.libs.com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:180)
+[20:41:14] [Thread-8/WARN]: 	at org.bukkit.craftbukkit.libs.com.google.gson.Gson.fromJson(Gson.java:755)
+[20:41:14] [Thread-8/WARN]: 	at org.bukkit.craftbukkit.libs.com.google.gson.Gson.fromJson(Gson.java:694)
+[20:41:14] [Thread-8/WARN]: 	at org.bukkit.craftbukkit.v1_7_R1.updater.BukkitDLUpdaterService.fetchArtifact(BukkitDLUpdaterService.java:53)
+[20:41:14] [Thread-8/WARN]: 	at org.bukkit.craftbukkit.v1_7_R1.updater.BukkitDLUpdaterService.getArtifact(BukkitDLUpdaterService.java:30)
+[20:41:14] [Thread-8/WARN]: 	at org.bukkit.craftbukkit.v1_7_R1.updater.AutoUpdater$1.run(AutoUpdater.java:77)
+[20:41:14] [Thread-8/WARN]: Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 7
+[20:41:14] [Thread-8/WARN]: 	at org.bukkit.craftbukkit.libs.com.google.gson.stream.JsonReader.expect(JsonReader.java:339)
+[20:41:14] [Thread-8/WARN]: 	at org.bukkit.craftbukkit.libs.com.google.gson.stream.JsonReader.beginObject(JsonReader.java:322)
+[20:41:14] [Thread-8/WARN]: 	at org.bukkit.craftbukkit.libs.com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:168)
+[20:41:14] [Thread-8/WARN]: 	... 5 more
+[20:41:14] [Server thread/INFO]: [PermissionsEx] sql backend registered!
+[20:41:14] [Server thread/INFO]: [PermissionsEx] file backend registered!
+[20:41:15] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.0.9
+[20:41:15] [Server thread/INFO]: [FoundDiamonds] Loading FoundDiamonds v3.6.4
+[20:41:15] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.5.8
+[20:41:15] [Server thread/INFO]: [Essentials] Loading Essentials v2.12.2
+[20:41:15] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v2.0.7
+[20:41:15] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.7.2
+[20:41:15] [Server thread/INFO]: [Announcer] Loading Announcer v1.4.5
+[20:41:15] [Server thread/INFO]: [InfinityDispenser] Loading InfinityDispenser v1.7
+[20:41:15] [Server thread/INFO]: [GroupGamemode] Loading GroupGamemode v1.0.0
+[20:41:15] [Server thread/INFO]: [Lockette] Loading Lockette v1.7.12
+[20:41:15] [Server thread/INFO]: [HeadsPlus] Loading HeadsPlus v1.0
+[20:41:15] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b678
+[20:41:15] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v5.8
+[20:41:15] [Server thread/INFO]: [AutoSaveWorld] Loading AutoSaveWorld v4.12.1
+[20:41:15] [Server thread/INFO]: [AntiTNT] Loading AntiTNT v1.1
+[20:41:15] [Server thread/INFO]: [Shopkeepers] Loading Shopkeepers v1.18
+[20:41:15] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.12.2
+[20:41:15] [Server thread/INFO]: [WorldRegions] Loading WorldRegions v1.0.1
+[20:41:15] [Server thread/INFO]: [WorldRegions] Injected flags!
+[20:41:15] [Server thread/INFO]: [MyMOTD] Loading MyMOTD v0.2.5
+[20:41:15] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.12.2
+[20:41:15] [Server thread/INFO]: [EssentialsAntiBuild] Loading EssentialsAntiBuild v2.12.2
+[20:41:15] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.20.4
+[20:41:15] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[20:41:15] [Server thread/INFO]: Permissions file successfully reloaded
+[20:41:15] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.5-b699
+[20:41:15] [Server thread/INFO]: [AdminShop] Loading AdminShop v0.4.1
+[20:41:15] [Server thread/INFO]: [Vault] Loading Vault v1.2.31-b411
+[20:41:15] [Server thread/INFO]: [ChairStairs] Loading ChairStairs v1.0
+[20:41:15] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.12.2
+[20:41:15] [Server thread/INFO]: [SignColorz] Loading SignColorz v1.2
+[20:41:15] [Server thread/INFO]: [RPG_Items] Loading RPG_Items v3.0.4
+[20:41:15] [Server thread/INFO]: [BookShelf] Loading BookShelf v3.5
+[20:41:15] [Server thread/INFO]: [SimpleRegionMarket] Loading SimpleRegionMarket v3.6
+[20:41:15] [Server thread/INFO]: [SignShop] Loading SignShop v2.8.3
+[20:41:15] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.11-SNAPSHOT (build 1053)
+[20:41:15] [Server thread/INFO]: [AutoSaveWorld] Enabling AutoSaveWorld v4.12.1
+[20:41:15] [Server thread/INFO]: [Vault] Enabling Vault v1.2.31-b411
+[20:41:16] [Server thread/INFO]: [Vault] [Vault][Economy] Essentials Economy found: Waiting
+[20:41:16] [Server thread/INFO]: [Vault] [Vault][Permission] PermissionsEx found: Waiting
+[20:41:16] [Server thread/INFO]: [Vault] [Vault][Permission] SuperPermissions loaded as backup permission system.
+[20:41:16] [Server thread/INFO]: [Vault] [Vault][Chat] PermissionsEx found: Waiting
+[20:41:16] [Server thread/INFO]: [Vault] [Vault] Enabled Version 1.2.31-b411
+[20:41:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:41:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[20:41:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:41:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:41:16] [Server thread/INFO]: Preparing level "world"
+[20:41:16] [Server thread/INFO]: Preparing start region for level 0 (Seed: 7795187059833257992)
+[20:41:17] [Server thread/INFO]: Preparing spawn area: 6%
+[20:41:18] [Server thread/INFO]: Preparing spawn area: 39%
+[20:41:19] [Server thread/INFO]: Preparing spawn area: 79%
+[20:41:20] [Server thread/INFO]: Preparing start region for level 1 (Seed: -2003301515321129386)
+[20:41:21] [Server thread/INFO]: Preparing spawn area: 38%
+[20:41:22] [Server thread/INFO]: Preparing spawn area: 77%
+[20:41:22] [Server thread/INFO]: Preparing start region for level 2 (Seed: -2003301515321129386)
+[20:41:23] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.0.9
+[20:41:25] [Server thread/WARN]: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+[20:41:25] [Server thread/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[20:41:25] [Server thread/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+[20:41:25] [Server thread/WARN]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+[20:41:25] [Server thread/WARN]: 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+[20:41:25] [Server thread/WARN]: 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:407)
+[20:41:25] [Server thread/WARN]: 	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:1116)
+[20:41:25] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:343)
+[20:41:25] [Server thread/WARN]: 	at com.mysql.jdbc.ConnectionImpl.coreConnect(ConnectionImpl.java:2334)
+[20:41:25] [Server thread/WARN]: 	at com.mysql.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:2371)
+[20:41:25] [Server thread/WARN]: 	at com.mysql.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:2163)
+[20:41:25] [Server thread/WARN]: 	at com.mysql.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:794)
+[20:41:25] [Server thread/WARN]: 	at com.mysql.jdbc.JDBC4Connection.<init>(JDBC4Connection.java:47)
+[20:41:25] [Server thread/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[20:41:25] [Server thread/WARN]: 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+[20:41:25] [Server thread/WARN]: 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+[20:41:25] [Server thread/WARN]: 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+[20:41:25] [Server thread/WARN]: 	at com.mysql.jdbc.Util.handleNewInstance(Util.java:407)
+[20:41:25] [Server thread/WARN]: 	at com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:378)
+[20:41:25] [Server thread/WARN]: 	at com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:305)
+[20:41:25] [Server thread/WARN]: 	at java.sql.DriverManager.getConnection(Unknown Source)
+[20:41:25] [Server thread/WARN]: 	at java.sql.DriverManager.getConnection(Unknown Source)
+[20:41:25] [Server thread/WARN]: 	at net.coreprotect.database.Database.getConnection(Database.java:39)
+[20:41:25] [Server thread/WARN]: 	at net.coreprotect.model.Config.loadDatabase(Config.java:773)
+[20:41:25] [Server thread/WARN]: 	at net.coreprotect.model.Config.init(Config.java:901)
+[20:41:25] [Server thread/WARN]: 	at net.coreprotect.CoreProtect.onEnable(CoreProtect.java:46)
+[20:41:25] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:250)
+[20:41:25] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:350)
+[20:41:25] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:389)
+[20:41:25] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.loadPlugin(CraftServer.java:439)
+[20:41:25] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_7_R1.CraftServer.enablePlugins(CraftServer.java:375)
+[20:41:25] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R1.MinecraftServer.m(MinecraftServer.java:342)
+[20:41:25] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R1.MinecraftServer.g(MinecraftServer.java:319)
+[20:41:25] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R1.MinecraftServer.a(MinecraftServer.java:275)
+[20:41:25] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R1.DedicatedServer.init(DedicatedServer.java:175)
+[20:41:25] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R1.MinecraftServer.run(MinecraftServer.java:424)
+[20:41:25] [Server thread/WARN]: 	at net.minecraft.server.v1_7_R1.ThreadServerApplication.run(SourceFile:617)
+[20:41:25] [Server thread/WARN]: Caused by: java.net.ConnectException: Connection refused: connect
+[20:41:25] [Server thread/WARN]: 	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+[20:41:25] [Server thread/WARN]: 	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+[20:41:25] [Server thread/WARN]: 	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+[20:41:25] [Server thread/WARN]: 	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+[20:41:25] [Server thread/WARN]: 	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+[20:41:25] [Server thread/WARN]: 	at java.net.PlainSocketImpl.connect(Unknown Source)
+[20:41:25] [Server thread/WARN]: 	at java.net.SocksSocketImpl.connect(Unknown Source)
+[20:41:25] [Server thread/WARN]: 	at java.net.Socket.connect(Unknown Source)
+[20:41:25] [Server thread/WARN]: 	at java.net.Socket.connect(Unknown Source)
+[20:41:25] [Server thread/WARN]: 	at java.net.Socket.<init>(Unknown Source)
+[20:41:25] [Server thread/WARN]: 	at java.net.Socket.<init>(Unknown Source)
+[20:41:25] [Server thread/WARN]: 	at com.mysql.jdbc.StandardSocketFactory.connect(StandardSocketFactory.java:254)
+[20:41:25] [Server thread/WARN]: 	at com.mysql.jdbc.MysqlIO.<init>(MysqlIO.java:292)
+[20:41:25] [Server thread/WARN]: 	... 29 more
+[20:41:27] [Server thread/INFO]: CoreProtect version 2.0.9 is enabled!
+[20:41:27] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[20:41:27] [Server thread/INFO]: [FoundDiamonds] Enabling FoundDiamonds v3.6.4
+[20:41:27] [Server thread/INFO]: [FoundDiamonds] Enabled
+[20:41:27] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.5.8
+[20:41:27] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[20:41:28] [Server thread/INFO]: [Essentials] Enabling Essentials v2.12.2
+[20:41:29] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[20:41:29] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[20:41:29] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[20:41:29] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v2.0.7
+[20:41:30] [Server thread/ERROR]: [LoginSecurity] Could not read from auth list!
+[20:41:30] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.7.2
+[20:41:30] [Server thread/INFO]: [ClearLag] Loading modules...
+[20:41:30] [Server thread/WARN]: [ClearLag] mob-range requires you to use bukkit v1.7_r4 (1.7.10)
+[20:41:30] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[20:41:30] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[20:41:30] [Server thread/INFO]: [Announcer] Enabling Announcer v1.4.5
+[20:41:30] [Thread-23/INFO]: [ClearLag] Checking for updates...
+[20:41:31] [Server thread/INFO]: Announcer v1.4.5 is enabled!
+
+[20:41:31] [Server thread/INFO]: [InfinityDispenser] Enabling InfinityDispenser v1.7
+[20:41:31] [Server thread/INFO]: [InfinityDispenser] 1.7 version is enabled
+[20:41:31] [Server thread/INFO]: [GroupGamemode] Enabling GroupGamemode v1.0.0
+[20:41:31] [Server thread/INFO]: GroupGamemode has been enabled!
+[20:41:31] [Server thread/INFO]: [Lockette] Enabling Lockette v1.7.12
+[20:41:31] [Server thread/INFO]: [Lockette] Version 1.7.12 is being enabled!  Yay!  (Core version 1.3.7)
+[20:41:31] [Server thread/INFO]: [Lockette] Detected craftbukkit build [3020] ok.
+[20:41:31] [Server thread/INFO]: [Lockette] Custom lockable block list: [116, 84, 57, 145, 154]
+[20:41:31] [Server thread/INFO]: [Lockette] Ignoring linked plugins: [mcMMO]
+[20:41:31] [Server thread/INFO]: [Lockette] Loading strings file for English by Acru
+[20:41:31] [Server thread/INFO]: [Lockette] Using ops file for admin permissions.
+[20:41:31] [Server thread/INFO]: [Lockette] Ready to protect your containers.
+[20:41:31] [Server thread/INFO]: [HeadsPlus] Enabling HeadsPlus v1.0
+[20:41:31] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b678
+[20:41:31] [Server thread/INFO]: [Multiverse-Core] [AllPay] - Version 13.0 - hooked into Essentials Economy for Multiverse-Core v2.5-b678
+[20:41:32] [Thread-23/INFO]: [ClearLag] Clearlag version v2.9.0 update available! Downloading...
+[20:41:32] [Server thread/INFO]: Preparing start region for level 3 (Seed: -4647857275988198659)
+[20:41:32] [Thread-23/INFO]: [ClearLag] Updating finished! Restart your server for files to take effect
+[20:41:33] [Server thread/INFO]: Preparing spawn area for Recursos, 36%
+[20:41:34] [Server thread/INFO]: Preparing spawn area for Recursos, 89%
+[20:41:34] [Thread-20/INFO]: --------------------
+[20:41:34] [Thread-20/INFO]: [CoreProtect] Version 2.12.0 now available.
+[20:41:34] [Thread-20/INFO]: [CoreProtect] Download: Type "/co version" in-game.
+[20:41:34] [Thread-20/INFO]: --------------------
+[20:41:34] [Thread-20/INFO]: [Sponsor] Unlimited MC Hosting: www.hosthorde.com
+[20:41:34] [Thread-20/INFO]: --------------------
+[20:41:34] [Server thread/INFO]: Preparing start region for level 4 (Seed: 8889307799634593445)
+[20:41:35] [Server thread/INFO]: Preparing spawn area for Ciudades, 36%
+[20:41:36] [Server thread/INFO]: Preparing spawn area for Ciudades, 60%
+[20:41:37] [Server thread/INFO]: Preparing spawn area for Ciudades, 93%
+[20:41:38] [Server thread/INFO]: Preparing start region for level 5 (Seed: 2338576020511927638)
+[20:41:39] [Server thread/INFO]: Preparing spawn area for Mapa_vacio, 16%
+[20:41:40] [Server thread/INFO]: Preparing spawn area for Mapa_vacio, 65%
+[20:41:40] [Server thread/INFO]: Preparing start region for level 6 (Seed: -8419245963672507996)
+[20:41:42] [Server thread/INFO]: Preparing spawn area for Capital, 24%
+[20:41:43] [Server thread/INFO]: Preparing spawn area for Capital, 52%
+[20:41:44] [Server thread/INFO]: Preparing spawn area for Capital, 85%
+[20:41:47] [Server thread/INFO]: Preparing start region for level 7 (Seed: 1452816888924715444)
+[20:41:49] [Server thread/INFO]: Preparing spawn area for pvp, 16%
+[20:41:51] [Server thread/INFO]: Preparing spawn area for pvp, 16%
+[20:41:52] [Server thread/INFO]: Preparing start region for level 8 (Seed: 2338576020511927638)
+[20:41:54] [Server thread/INFO]: Preparing spawn area for Spawn, 48%
+[20:41:54] [Server thread/INFO]: Preparing start region for level 9 (Seed: -1829305381845702584)
+[20:41:55] [Server thread/INFO]: Preparing spawn area for Otros, 85%
+[20:41:55] [Server thread/INFO]: [Multiverse-Core] 10 - World(s) loaded.
+[20:41:56] [Server thread/INFO]: [Multiverse-Core] Version 2.5-b678 (API v18) Enabled - By Rigby, fernferret, lithium3141 and main--
+[20:41:56] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v5.8
+[20:41:56] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[20:41:56] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[20:41:56] [Server thread/INFO]: [WorldGuard] (world) Lava fire is blocked.
+[20:41:56] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[20:41:56] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[20:41:56] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[20:41:56] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[20:41:56] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[20:41:56] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[20:41:57] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[20:41:57] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[20:41:57] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[20:41:57] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[20:41:57] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[20:41:57] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[20:41:57] [Server thread/INFO]: [WorldGuard] (Recursos) TNT ignition is PERMITTED.
+[20:41:57] [Server thread/INFO]: [WorldGuard] (Recursos) Lighters are PERMITTED.
+[20:41:57] [Server thread/INFO]: [WorldGuard] (Recursos) Lava fire is blocked.
+[20:41:57] [Server thread/INFO]: [WorldGuard] (Recursos) Fire spread is UNRESTRICTED.
+[20:41:57] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Recursos'
+[20:41:57] [Server thread/INFO]: [WorldGuard] (Ciudades) TNT ignition is PERMITTED.
+[20:41:57] [Server thread/INFO]: [WorldGuard] (Ciudades) Lighters are PERMITTED.
+[20:41:57] [Server thread/INFO]: [WorldGuard] (Ciudades) Lava fire is blocked.
+[20:41:57] [Server thread/INFO]: [WorldGuard] (Ciudades) Fire spread is UNRESTRICTED.
+[20:41:57] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Ciudades'
+[20:41:57] [Server thread/INFO]: [WorldGuard] (Mapa_vacio) TNT ignition is PERMITTED.
+[20:41:57] [Server thread/INFO]: [WorldGuard] (Mapa_vacio) Lighters are PERMITTED.
+[20:41:57] [Server thread/INFO]: [WorldGuard] (Mapa_vacio) Lava fire is blocked.
+[20:41:57] [Server thread/INFO]: [WorldGuard] (Mapa_vacio) Fire spread is UNRESTRICTED.
+[20:41:57] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Mapa_vacio'
+[20:41:57] [Server thread/INFO]: [WorldGuard] (Capital) TNT ignition is PERMITTED.
+[20:41:57] [Server thread/INFO]: [WorldGuard] (Capital) Lighters are PERMITTED.
+[20:41:57] [Server thread/INFO]: [WorldGuard] (Capital) Lava fire is blocked.
+[20:41:57] [Server thread/INFO]: [WorldGuard] (Capital) Fire spread is UNRESTRICTED.
+[20:41:57] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Capital'
+[20:41:57] [Server thread/INFO]: [WorldGuard] (pvp) TNT ignition is PERMITTED.
+[20:41:57] [Server thread/INFO]: [WorldGuard] (pvp) Lighters are PERMITTED.
+[20:41:57] [Server thread/INFO]: [WorldGuard] (pvp) Lava fire is blocked.
+[20:41:57] [Server thread/INFO]: [WorldGuard] (pvp) Fire spread is UNRESTRICTED.
+[20:41:57] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'pvp'
+[20:41:57] [Server thread/INFO]: [WorldGuard] (Spawn) TNT ignition is PERMITTED.
+[20:41:57] [Server thread/INFO]: [WorldGuard] (Spawn) Lighters are PERMITTED.
+[20:41:57] [Server thread/INFO]: [WorldGuard] (Spawn) Lava fire is blocked.
+[20:41:57] [Server thread/INFO]: [WorldGuard] (Spawn) Fire spread is UNRESTRICTED.
+[20:41:57] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Spawn'
+[20:41:57] [Server thread/INFO]: [WorldGuard] (Otros) TNT ignition is PERMITTED.
+[20:41:57] [Server thread/INFO]: [WorldGuard] (Otros) Lighters are PERMITTED.
+[20:41:57] [Server thread/INFO]: [WorldGuard] (Otros) Lava fire is blocked.
+[20:41:57] [Server thread/INFO]: [WorldGuard] (Otros) Fire spread is UNRESTRICTED.
+[20:41:57] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Otros'
+[20:41:57] [Server thread/INFO]: [WorldGuard] 1 regions loaded for 'world'
+[20:41:57] [Server thread/INFO]: [WorldGuard] 3 regions loaded for 'world_nether'
+[20:41:57] [Server thread/INFO]: [WorldGuard] 0 regions loaded for 'world_the_end'
+[20:41:57] [Server thread/INFO]: [WorldGuard] 4 regions loaded for 'Recursos'
+[20:41:57] [Server thread/INFO]: [WorldGuard] 2 regions loaded for 'Ciudades'
+[20:41:57] [Server thread/INFO]: [WorldGuard] 1 regions loaded for 'Mapa_vacio'
+[20:41:57] [Server thread/INFO]: [WorldGuard] 51 regions loaded for 'Capital'
+[20:41:57] [Server thread/INFO]: [WorldGuard] 3 regions loaded for 'pvp'
+[20:41:57] [Server thread/INFO]: [WorldGuard] 1 regions loaded for 'Spawn'
+[20:41:57] [Server thread/INFO]: [WorldGuard] 35 regions loaded for 'Otros'
+[20:41:57] [Server thread/INFO]: [AntiTNT] Enabling AntiTNT v1.1
+[20:41:57] [Server thread/INFO]: AntiTNT has been enabled!
+[20:41:57] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v1.18
+[20:41:58] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.12.2
+[20:41:58] [Server thread/INFO]: [WorldRegions] Enabling WorldRegions v1.0.1
+[20:41:58] [Server thread/INFO]: [MyMOTD] Enabling MyMOTD v0.2.5
+[20:41:58] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.12.2
+[20:41:58] [Server thread/INFO]: [EssentialsAntiBuild] Enabling EssentialsAntiBuild v2.12.2
+[20:41:58] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.20.4
+[20:41:58] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[20:41:58] [Server thread/INFO]: [Lockette] Enabled link to plugin PermissionsEx for Groups, version 1.20.4
+[20:41:58] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[20:41:58] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[20:41:58] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
+[20:41:58] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.5-b699
+[20:41:58] [Server thread/INFO]: [Multiverse-Portals] - Version 2.5-b699 Enabled - By Rigby and fernferret
+[20:41:59] [Server thread/INFO]: [MVPLogging] 11 - Portals(s) loaded
+[20:41:59] [Server thread/INFO]: [AdminShop] Enabling AdminShop v0.4.1
+[20:41:59] [Server thread/INFO]: [AdminShop] Loading Aliases...
+[20:41:59] [Server thread/INFO]: [AdminShop] 0 Aliases loaded.
+[20:41:59] [Server thread/INFO]: [AdminShop] Plugin loaded successfully
+[20:41:59] [Server thread/INFO]: [ChairStairs] Enabling ChairStairs v1.0
+[20:42:00] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.12.2
+[20:42:00] [Server thread/INFO]: [SignColorz] Enabling SignColorz v1.2
+[20:42:00] [Server thread/INFO]: [SignColorz] v1.2enabled!
+[20:42:00] [Server thread/INFO]: [RPG_Items] Enabling RPG_Items v3.0.4
+[20:42:00] [Server thread/INFO]: [RPG Items] World Guard found
+[20:42:00] [Thread-26/WARN]: [RPG_Items] The updater could not find any files for the project id 70226
+[20:42:00] [Server thread/INFO]: [BookShelf] Enabling BookShelf v3.5
+[20:42:00] [Server thread/INFO]: [BookShelf] Current Database Version: 3
+[20:42:00] [Server thread/INFO]: [BookShelf] Database Loaded.
+[20:42:00] [Server thread/INFO]: [BookShelf] Vault found and hooked.
+[20:42:00] [Server thread/INFO]: [BookShelf] WorldGuard found and hooked.
+[20:42:00] [Server thread/INFO]: [BookShelf] Enabled BookShelf V3.5
+[20:42:00] [Server thread/INFO]: [SimpleRegionMarket] Enabling SimpleRegionMarket v3.6
+[20:42:01] [Server thread/INFO]: [SimpleRegionMarket] Loaded 4 template(s), 3 world(s) and 20 region(s).
+[20:42:01] [Server thread/INFO]: [SimpleRegionMarket] The check took 301ms
+[20:42:01] [Server thread/INFO]: [SimpleRegionMarket] Permissions loaded (PermissionsEx)
+[20:42:01] [Server thread/INFO]: [SimpleRegionMarket] SimpleRegionMarket enabled.
+[20:42:01] [Server thread/INFO]: [SignShop] Enabling SignShop v2.8.3
+[20:42:01] [Server thread/INFO]: [SignShop] Succesfully started Metrics, see http://mcstats.org for more information.
+[20:42:08] [Server thread/WARN]: [SignShop] Essentials signs are enabled, checking for conflicts now!
+[20:42:08] [Server thread/INFO]: [SignShop] v2.8.3 Enabled
+[20:42:08] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.11-SNAPSHOT (build 1053)
+[20:42:08] [Server thread/ERROR]: [Citizens] Missing preferred location bundle.
+[20:42:08] [Server thread/ERROR]: [Citizens] Unable to find Rhino classes - javascript scripts won't see non-CraftBukkit classes
+[20:42:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:42:10] [Server thread/INFO]: Done (54,184s)! For help, type "help" or "?"
+[20:42:10] [Server thread/INFO]: Starting remote control listener
+[20:42:10] [RCON Listener #1/INFO]: RCON running on 0.0.0.0:25567
+[20:42:10] [Server thread/INFO]: Accepted EditSessionFactory of type net.coreprotect.worldedit.CoreProtectEditSessionFactory from net.coreprotect.worldedit
+[20:42:10] [Server thread/INFO]: [Citizens] Loaded 0 NPCs.
+[20:42:11] [pool-3-thread-1/INFO]: [Vault] Checking for Updates:
+[20:42:11] [pool-3-thread-1/WARN]: [Vault] Stable Version: 1.5.6 is out! You are still running version: 1.2.31
+[20:42:11] [pool-3-thread-1/WARN]: [Vault] Update at: http://dev.bukkit.org/server-mods/vault
+[20:42:33] [Server thread/INFO]: Cieron_[/127.0.0.1:61517] logged in with entity id 1611 at ([Capital] -171.87417483742914, 90.10492046498972, 190.24228862113983)
+[20:42:33] [Server thread/WARN]: [RPG_Items] Failed to get player locale
+[20:42:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2301ms behind, skipping 46 tick(s)
+[20:42:42] [Server thread/INFO]: Cieron_ issued server command: /login seba
+[20:42:42] [Server thread/INFO]: [LoginSecurity] Cieron_ authenticated
+[20:42:55] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3865ms behind, skipping 77 tick(s)
+[20:43:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2888ms behind, skipping 57 tick(s)
+[20:43:26] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2266ms behind, skipping 45 tick(s)
+[20:43:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2252ms behind, skipping 45 tick(s)
+[20:43:57] [Server thread/WARN]: [WorldEdit] No compatible nms block class found.
+[20:44:02] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3398ms behind, skipping 67 tick(s)
+[20:44:15] [Server thread/INFO]: Cieron_ issued server command: /spawn
+[20:44:16] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2378ms behind, skipping 47 tick(s)
+[20:47:20] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4358ms behind, skipping 87 tick(s)
+[20:47:35] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2264ms behind, skipping 45 tick(s)
+[20:48:58] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mCuidado, los items en el suelo seran removidos en [0;37;22m60 [0;31;1mseconds![m
+[20:49:38] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mCuidado, los items en el suelo seran removidos en [0;37;22m20 [0;31;1mseconds![m
+[20:49:58] [Server thread/INFO]: [0;33;22m[ClearLag] [0;31;22m13 [0;32;1mEntidades Removidas![m
+[20:52:22] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4057ms behind, skipping 81 tick(s)
+[20:56:22] [AutoSaveWorld AutoSaveThread/INFO]: [0;34;1m[21mAutoGuardado[m
+[20:56:22] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
+[20:56:23] [AutoSaveWorld AutoSaveThread/INFO]: [0;34;1m[21mAutoGuardado Completado[m
+[20:56:40] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mCuidado, los items en el suelo seran removidos en [0;37;22m60 [0;31;1mseconds![m
+[20:57:20] [Server thread/INFO]: [0;31;22m[ClearLag] [0;31;1mCuidado, los items en el suelo seran removidos en [0;37;22m20 [0;31;1mseconds![m
+[20:57:25] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4327ms behind, skipping 86 tick(s)
+[20:57:42] [Server thread/INFO]: [0;33;22m[ClearLag] [0;31;22m4 [0;32;1mEntidades Removidas![m
+[21:00:58] [Server thread/INFO]: Cieron_ lost connection: Disconnected
+[21:00:58] [Server thread/INFO]: Cieron_ left the game.
+[21:00:59] [AutoSaveWorld AutoSaveThread/INFO]: [0;34;1m[21mAutoGuardado[m
+[21:01:00] [AutoSaveWorld AutoSaveThread/INFO]: [0;34;1m[21mAutoGuardado Completado[m
+[21:01:03] [Server thread/INFO]: CONSOLE: Stopping the server..[m
+[21:01:03] [Server thread/INFO]: Stopping server
+[21:01:03] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.11-SNAPSHOT (build 1053)
+[21:01:03] [Server thread/INFO]: [SignShop] Disabling SignShop v2.8.3
+[21:01:04] [Server thread/INFO]: [SignShop] Disabled
+[21:01:04] [Server thread/INFO]: [SimpleRegionMarket] Disabling SimpleRegionMarket v3.6
+[21:01:04] [Server thread/INFO]: [SimpleRegionMarket] SimpleRegionMarket disabled.
+[21:01:04] [Server thread/INFO]: [BookShelf] Disabling BookShelf v3.5
+[21:01:04] [Server thread/INFO]: [RPG_Items] Disabling RPG_Items v3.0.4
+[21:01:04] [Server thread/INFO]: [SignColorz] Disabling SignColorz v1.2
+[21:01:04] [Server thread/INFO]: [SignColorz] v1.2 disabled!
+[21:01:04] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.12.2
+[21:01:04] [Server thread/INFO]: [ChairStairs] Disabling ChairStairs v1.0
+[21:01:04] [Server thread/INFO]: [ChairStairs] has been disabled.
+[21:01:04] [Server thread/INFO]: [Vault] Disabling Vault v1.2.31-b411
+[21:01:04] [Server thread/INFO]: [AdminShop] Disabling AdminShop v0.4.1
+[21:01:04] [Server thread/INFO]: [AdminShop] Plugin disabled successfully
+[21:01:04] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.5-b699
+[21:01:04] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.20.4
+[21:01:04] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[21:01:04] [Server thread/INFO]: [Lockette] Disabled link to plugin PermissionsEx, version 1.20.4
+[21:01:04] [Server thread/INFO]: Permissions file successfully reloaded
+[21:01:04] [Server thread/INFO]: [EssentialsAntiBuild] Disabling EssentialsAntiBuild v2.12.2
+[21:01:04] [Server thread/INFO]: Essentials: Using config file enhanced permissions.
+[21:01:04] [Server thread/INFO]: Permissions listed in as player-commands will be given to all users.
+[21:01:04] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.12.2
+[21:01:04] [Server thread/INFO]: [MyMOTD] Disabling MyMOTD v0.2.5
+[21:01:04] [Server thread/INFO]: [WorldRegions] Disabling WorldRegions v1.0.1
+[21:01:04] [Server thread/INFO]: [WorldRegions] Released flags!
+[21:01:04] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.12.2
+[21:01:04] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v1.18
+[21:01:04] [Server thread/INFO]: [AntiTNT] Disabling AntiTNT v1.1
+[21:01:04] [Server thread/INFO]: AntiTNT has been disabled.
+[21:01:04] [Server thread/INFO]: [AutoSaveWorld] Disabling AutoSaveWorld v4.12.1
+[21:01:04] [Server thread/INFO]: [0;34;1m[21mAutoGuardado[m
+[21:01:04] [Server thread/INFO]: [0;34;1m[21mAutoGuardado Completado[m
+[21:01:08] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v5.8
+[21:01:08] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.5-b678
+[21:01:08] [Server thread/INFO]: [HeadsPlus] Disabling HeadsPlus v1.0
+[21:01:08] [Server thread/INFO]: [Lockette] Disabling Lockette v1.7.12
+[21:01:08] [Server thread/INFO]: Lockette is being disabled...  ;.;
+[21:01:08] [Server thread/INFO]: [Lockette] Closing all automatic doors.
+[21:01:08] [Server thread/INFO]: [GroupGamemode] Disabling GroupGamemode v1.0.0
+[21:01:08] [Server thread/INFO]: [InfinityDispenser] Disabling InfinityDispenser v1.7
+[21:01:08] [Server thread/INFO]: [Announcer] Disabling Announcer v1.4.5
+[21:01:08] [Server thread/INFO]: Announcer v1.4.5 is disabled!
+
+[21:01:08] [Server thread/INFO]: [ClearLag] Disabling ClearLag v2.7.2
+[21:01:08] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v2.0.7
+[21:01:08] [Server thread/INFO]: [Essentials] Disabling Essentials v2.12.2
+[21:01:08] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.5.8
+[21:01:08] [Server thread/INFO]: [FoundDiamonds] Disabling FoundDiamonds v3.6.4
+[21:01:08] [Server thread/INFO]: [FoundDiamonds] Saving all data...
+[21:01:08] [Server thread/INFO]: [FoundDiamonds] Data successfully saved.
+[21:01:08] [Server thread/INFO]: [FoundDiamonds] Disabled
+[21:01:08] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.0.9
+[21:01:09] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...[m
+[21:01:09] [Server thread/INFO]: [CoreProtect] Success! Resuming server shutdown.
+[21:01:09] [Server thread/INFO]: Saving players
+[21:01:09] [Server thread/INFO]: Saving worlds
+[21:01:09] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[21:01:09] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[21:01:09] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[21:01:09] [Server thread/INFO]: Saving chunks for level 'Recursos'/Overworld
+[21:01:09] [Server thread/INFO]: Saving chunks for level 'Ciudades'/Overworld
+[21:01:09] [Server thread/INFO]: Saving chunks for level 'Mapa_vacio'/Overworld
+[21:01:09] [Server thread/INFO]: Saving chunks for level 'Capital'/Overworld
+[21:01:09] [Server thread/INFO]: Saving chunks for level 'pvp'/Overworld
+[21:01:09] [Server thread/INFO]: Saving chunks for level 'Spawn'/Overworld
+[21:01:09] [Server thread/INFO]: Saving chunks for level 'Otros'/Overworld
+[21:01:09] [Thread-4/INFO]: Stopping server
+[21:01:09] [Thread-4/INFO]: Saving players
+[21:01:09] [Thread-4/INFO]: Saving worlds
+[21:01:09] [Thread-4/INFO]: Saving chunks for level 'world'/Overworld
+[21:01:09] [Thread-4/INFO]: Saving chunks for level 'world_nether'/Nether
