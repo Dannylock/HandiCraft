@@ -1,0 +1,49 @@
+socialspy: false
+timestamps:
+  login: 1455752554196
+  logout: 1455753657982
+  lastteleport: 1455752655868
+ipAddress: 127.0.0.1
+lastlocation:
+  world: Capital
+  x: -150.7653043099007
+  y: 68.48003937194046
+  z: 281.8780675035674
+  yaw: 56.537098
+  pitch: 0.75000185
+logoutlocation:
+  world: Spawn
+  x: 269.3852799333303
+  y: 7.0
+  z: 119.59493359730166
+  yaw: -32.250004
+  pitch: 35.400013
+nickname: §2§lElCieronOEMEGE
+afk: false
+godmode: false
+money: '9999998499804.0'
+homes:
+  reuniones:
+    world: Otros
+    x: 703.8813944872363
+    y: 4.0
+    z: 1613.6981900556243
+    yaw: 140.32161
+    pitch: 22.559061
+  estatuas:
+    world: Otros
+    x: 410.9265690034363
+    y: 6.6126548224
+    z: 1177.446943035873
+    yaw: 91.88657
+    pitch: -21.641483
+  ctw:
+    world: ctw
+    x: -131.94669526939876
+    y: 43.0
+    z: -23.727010010781655
+    yaw: 195.44067
+    pitch: 30.128984
+ban:
+  reason: '§4Baneado: §r gei'
+  timeout: 0

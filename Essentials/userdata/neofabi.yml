@@ -1,0 +1,21 @@
+socialspy: false
+timestamps:
+  login: 1409533741529
+  logout: 1400112270670
+  lastteleport: 1409443285825
+ipAddress: 201.188.65.66
+lastlocation:
+  world: Capital
+  x: -204.54621269965037
+  y: 70.0
+  z: 152.5671782414833
+  yaw: -16.44192
+  pitch: 12.749982
+logoutlocation:
+  world: world_nether
+  x: 83.49390626747997
+  y: 78.0
+  z: 137.3657635611197
+  yaw: -286.85013
+  pitch: 7.5000024
+nickname: §4§lNeo§1§lRaba

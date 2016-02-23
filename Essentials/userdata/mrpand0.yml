@@ -1,0 +1,25 @@
+socialspy: false
+timestamps:
+  login: 1404870153865
+  logout: 1404870111393
+  lastteleport: 1404870547866
+ipAddress: 190.45.55.14
+lastlocation:
+  world: Capital
+  x: -163.29114320009748
+  y: 67.0
+  z: 224.92218806682823
+  yaw: 63.645298
+  pitch: 3.2999902
+logoutlocation:
+  world: Otros
+  x: 398.6136093105901
+  y: 4.0
+  z: 1198.7977845305597
+  yaw: -292.57074
+  pitch: 9.900017
+nickname: §1§lMr§4§lPand0§3
+afk: false
+powertools:
+  '171':
+  - Capital

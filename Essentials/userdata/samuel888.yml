@@ -1,0 +1,35 @@
+socialspy: false
+timestamps:
+  login: 1405029299786
+  logout: 1405033404936
+  lastteleport: 1405033254236
+  jail: 0
+ipAddress: 200.120.251.136
+lastlocation:
+  world: spawn
+  x: 305.5
+  y: 32.0
+  z: 129.5
+  yaw: -180.07704
+  pitch: 0.7669026
+logoutlocation:
+  world: spawn
+  x: 315.51249998807907
+  y: 31.0
+  z: 109.30000001192093
+  yaw: -9.827052
+  pitch: -0.75000095
+ban:
+  reason: '§4Baneado: §r ¡Baneado por mal comportamiento!'
+  timeout: 0
+money: '104315.0'
+homes:
+  home:
+    world: Capital
+    x: 580.1452318896361
+    y: 72.0
+    z: 744.5773149437151
+    yaw: -272.05786
+    pitch: 19.49998
+afk: false
+jailed: false

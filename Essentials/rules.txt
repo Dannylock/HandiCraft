@@ -1,0 +1,17 @@
+&lReglas Generales del Server (Se aplica a todos los mundos):
+- Si encuentras algun bug avisar al staff, 
+si eres encontrado aprovechandote de este seras sancionado con respectivo &4Ban.
+- 
+&2&lReglas Del mundo Ciudades:
+- No esta permitido matar a animales de otras personas
+ (Solo si estan en la casa de aquella persona)
+- No usar mesas de encantamiento, hornos, etc de otra
+  persona
+&3&lReglas Del mundo Recursos:
+- Las/os Villas/Pueblos que hayan sido construidos por usuarios estan, aun si no tienen proteccion, regidos/as por las &6&lReglas de Pueblos
+- Si encuentras un Cofre/Horno/Mesa de crafteo/etc en una zona sin proteger (Con esto me refiero a una zona sin casas ni nada) tienes todo el permiso de sacarlo/romperlo
+&6&lReglas de Pueblos:
+ Los Pueblos que hayan sido construidos por usuarios y tengan un permiso de pueblo tienen las siguientes reglas:
+- Nadie, ademas de las personas que habiten en este Pueblo pueden romper dentro de este.
+- Si alguien es sorprendido rompiendo sera sancionado 
+ con &4Ban &ro &4Jail&r.

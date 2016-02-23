@@ -1,0 +1,34 @@
+socialspy: false
+timestamps:
+  login: 1409786291941
+  lastteleport: 1409786236242
+  logout: 1409786297559
+  mute: 0
+ipAddress: 190.44.144.195
+lastlocation:
+  world: Capital
+  x: -33.95828949535685
+  y: 86.01010501659773
+  z: 289.2828284389192
+  yaw: -98.95459
+  pitch: 6.899997
+logoutlocation:
+  world: Capital
+  x: -163.5
+  y: 67.0
+  z: 216.5
+  yaw: -344.05423
+  pitch: 23.433748
+homes:
+  home:
+    world: Capital
+    x: -163.6791318810802
+    y: 67.0
+    z: 216.53159107596508
+    yaw: -344.05423
+    pitch: 23.433748
+ban:
+  reason: Temporarily banned from server for 30 minutes.
+  timeout: 1409783319956
+money: '4722.4649606250005'
+muted: false

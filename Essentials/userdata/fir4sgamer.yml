@@ -1,0 +1,28 @@
+socialspy: false
+timestamps:
+  login: 1404575490370
+  lastteleport: 1404513325797
+  logout: 1404575621368
+ipAddress: 186.107.244.24
+lastlocation:
+  world: spawn
+  x: 305.0544957425832
+  y: 32.0
+  z: 126.57596159081413
+  yaw: -185.62708
+  pitch: 27.466904
+logoutlocation:
+  world: spawn
+  x: 293.521683298825
+  y: 7.0
+  z: 12.45741828909755
+  yaw: -71.32691
+  pitch: 3.0168834
+homes:
+  home:
+    world: Recursos
+    x: -518.4147646926198
+    y: 79.0
+    z: 148.6553590583596
+    yaw: -266.0713
+    pitch: 17.999983
