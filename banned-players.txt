@@ -1,0 +1,11 @@
+# Updated 17-02-16 20:41 by Minecraft 1.7.2
+# victim name | ban date | banned by | banned until | reason
+
+tomitrucos|2014-04-13 19:32:36 -0300|(Unknown)|Forever|Banned by an operator.
+Altsout512|2014-06-29 22:15:40 -0400|(Unknown)|Forever|Banned by an operator.
+rata|2014-11-11 16:47:03 -0300|(Unknown)|Forever|Banned by an operator.
+VeggetaGaymer|2014-11-11 16:47:10 -0300|(Unknown)|Forever|Banned by an operator.
+TheWillyrex|2014-11-11 16:47:21 -0300|(Unknown)|Forever|Banned by an operator.
+alvaro777|2014-11-11 16:50:14 -0300|(Unknown)|Forever|Banned by an operator.
+777|2014-11-11 16:50:17 -0300|(Unknown)|Forever|Banned by an operator.
+Edge|2014-11-11 16:50:39 -0300|(Unknown)|Forever|Banned by an operator.

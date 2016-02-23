@@ -1,0 +1,4 @@
+# Updated 17-02-16 20:41 by Minecraft 1.7.2
+# victim name | ban date | banned by | banned until | reason
+
+190.20.80.79|2014-11-11 16:50:47 -0300|(Unknown)|Forever|Banned by an operator.
