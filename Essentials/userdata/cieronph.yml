@@ -1,0 +1,42 @@
+uuid: 5cbe90c0-bd1c-35ba-afde-c3d12436cfcf
+timestamps:
+  login: 1398477719943
+  lastteleport: 1398475022373
+  logout: 1398478798102
+  kits:
+    tools: 1397323815852
+ipAddress: 127.0.0.1
+afk: false
+lastlocation:
+  world: pvp
+  x: 704.3508966787439
+  y: 3.4371120187229676
+  z: -419.5619029875248
+  yaw: 51.18291
+  pitch: 9.713137
+logoutlocation:
+  world: pvp
+  x: 694.1186633094168
+  y: 24.0
+  z: -409.86128574473867
+  yaw: -140.47209
+  pitch: 14.071589
+nickname: §3§lCi§b§ler§2§lon
+homes:
+  home:
+    world: Moria
+    x: -51.14069552435123
+    y: 42.0
+    z: 296.79536516286237
+    yaw: -278.36597
+    pitch: 34.258026
+  asd:
+    world: Capital
+    x: -364.35295711978415
+    y: 81.0
+    z: -15.842131781276013
+    yaw: 238.71466
+    pitch: 62.931873
+socialspy: false
+money: '10000000000000'
+godmode: false

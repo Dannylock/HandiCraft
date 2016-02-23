@@ -1,0 +1,16 @@
+announcement:
+  enabled: true
+  random: false
+  prefix: '&r&l&5[&r&l&2Anuncio&r&5&l] '
+  interval: 250
+  check-for-updates: true
+  auto-update: false
+  messages:
+  - '&r&lVienbenidos a AndiKraft, Haora con hun 50% menhos de faltas de hortografia '
+  - '&r&lPuedes informarte o hacer preguntas sobre el server aca: &2&lmegasebon.tumblr.com '
+  - '&r&lPuedes entrar en nuestro TeamSpeak : &r&1&lhandicraft.zapto.org '
+  - 'Kevin Polloh '
+  - '&r&lPuedes darle una mirada al la demostracion de cosas que estamos agregando
+    en : &2&lhttps://www.youtube.com/watch?v=m9muD2HSuTk '
+  - '&r&lRecuerda, si &4&linvitas &r&la 5 amigos o mas ganas &l[&2&lPublicista&r&6&l]&3 '
+  - '&l¿Quiere escuchar musica? Unetenos en &2&lhttps://plug.dj/handicraft '

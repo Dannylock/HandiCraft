@@ -1,0 +1,24 @@
+uuid: cbdfda2b-4b59-3496-a17c-c9ad00fe9e50
+timestamps:
+  login: 1397525062910
+  logout: 1397428156129
+  lastteleport: 1397525142548
+  jail: 0
+ipAddress: 186.23.162.86
+lastlocation:
+  world: Otros
+  x: 626.4799283994694
+  y: 16.593320726095598
+  z: 1226.5808317674741
+  yaw: -107.07355
+  pitch: -25.950014
+logoutlocation:
+  world: Capital
+  x: -200.1773235764144
+  y: 69.0
+  z: 290.07499998807907
+  yaw: -149.31482
+  pitch: 20.549994
+jailed: false
+socialspy: false
+money: '5130.0'

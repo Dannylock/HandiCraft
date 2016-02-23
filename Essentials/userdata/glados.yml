@@ -1,0 +1,33 @@
+socialspy: false
+timestamps:
+  login: 1410385054571
+  logout: 1410385222368
+  lastteleport: 1409531816919
+  kits:
+    tools: 1404495088042
+ipAddress: 190.44.90.28
+lastlocation:
+  world: spawn
+  x: 296.785347982161
+  y: 14.5
+  z: 2.05349582267769
+  yaw: -117.81697
+  pitch: 38.850056
+logoutlocation:
+  world: ciudad
+  x: 252.54515214042885
+  y: 79.5
+  z: 228.25740327702437
+  yaw: -197.0711
+  pitch: 24.000029
+nickname: §1§lGl§r§la§r§4§lDOS
+afk: false
+money: '100010.0'
+homes:
+  home:
+    world: Otros
+    x: 697.58005342137
+    y: 5.0
+    z: 1607.6765332668044
+    yaw: -148.33958
+    pitch: 25.100666

@@ -1,0 +1,35 @@
+uuid: 8493399e-ff10-3f1d-9c68-386507e7d18c
+timestamps:
+  login: 1406765280214
+  logout: 1406765281812
+  jail: 0
+  lastteleport: 1406311839494
+ipAddress: 201.231.106.159
+lastlocation:
+  world: spawn
+  x: 305.4348317709664
+  y: 31.0
+  z: 127.43388954463673
+  yaw: 0.6821289
+  pitch: 0.44997817
+logoutlocation:
+  world: Otros
+  x: 410.77673970469857
+  y: 5.903969332988948
+  z: 1152.9217571551346
+  yaw: 354.63696
+  pitch: 18.246342
+jailed: false
+money: '509030.0'
+socialspy: false
+homes:
+  home:
+    world: Capital
+    x: -200.44822831731187
+    y: 68.0
+    z: 246.604309773691
+    yaw: -176.35355
+    pitch: 16.683746
+ban:
+  reason: '§4Baneado: §r ¡Baneado por mal comportamiento!'
+  timeout: 0

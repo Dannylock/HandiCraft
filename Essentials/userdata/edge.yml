@@ -1,0 +1,28 @@
+socialspy: false
+timestamps:
+  login: 1409789143445
+  logout: 1409786420600
+  lastteleport: 1409790278399
+  jail: 0
+  mute: 0
+ipAddress: 190.20.80.79
+lastlocation:
+  world: Capital
+  x: -195.8024400438722
+  y: 67.0
+  z: 237.84487154332592
+  yaw: 78.35779
+  pitch: 29.998707
+logoutlocation:
+  world: Capital
+  x: -195.30000001192093
+  y: 67.0
+  z: 241.3000000119209
+  yaw: 134.74535
+  pitch: 46.08372
+jailed: false
+money: '7732.4298050839068'
+muted: false
+ban:
+  reason: '§4Baneado: §r ¡Baneado por mal comportamiento!'
+  timeout: 0

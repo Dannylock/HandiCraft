@@ -1,0 +1,36 @@
+socialspy: false
+timestamps:
+  login: 1406269114204
+  lastteleport: 1406269150537
+  logout: 1406266059173
+  kits:
+    tools: 1397436823948
+ipAddress: 190.31.167.113
+lastlocation:
+  world: spawn
+  x: 305.4348317709664
+  y: 31.0
+  z: 127.43388954463673
+  yaw: 0.6821289
+  pitch: 0.44997817
+powertools:
+  '323':
+  - teleport
+logoutlocation:
+  world: Otros
+  x: 410.4136990657617
+  y: 12.300346602576498
+  z: 1192.1174139460034
+  yaw: 273.44824
+  pitch: 29.849985
+money: '108030.0'
+homes:
+  home:
+    world: Capital
+    x: -182.3492281198514
+    y: 68.0
+    z: 268.3583365828297
+    yaw: -1.8020935
+    pitch: 4.1999407
+afk: false
+nickname: JUAN

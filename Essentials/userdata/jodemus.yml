@@ -1,0 +1,20 @@
+socialspy: false
+timestamps:
+  login: 1403574819296
+  lastteleport: 1403573937732
+  logout: 1403575128524
+ipAddress: 186.137.98.9
+lastlocation:
+  world: Recursos
+  x: -1028.1588991902856
+  y: 29.0
+  z: 527.5826050605287
+  yaw: 94.418976
+  pitch: 32.85537
+logoutlocation:
+  world: Capital
+  x: -117.36562828174945
+  y: 73.0
+  z: 274.1558873407484
+  yaw: 300.64594
+  pitch: 16.999859

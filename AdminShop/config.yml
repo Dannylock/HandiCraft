@@ -1,0 +1,24 @@
+console-output: true
+messages:
+  msg_nope: '&cError: No tienes permiso.'
+  msg_help_header: '&b[]----------- &6&lShop v%version% &b-----------[]'
+  msg_help_help: '&3/shop help &6- Muestra esta ayuda'
+  msg_help_buy: '&3/shop buy <name/ID> <amount> &6- Compra un item'
+  msg_help_sell: '&3/shop sell <hand|all> &6- Vende tus items de tu mano/inventario'
+  msg_help_price: '&3/shop price [name/ID] &6- Muestra el precio del item'
+  msg_help_add: '&3/shop add <buyprice> <sellprice> &6- Agrega el item en la mano
+    a la shop'
+  msg_help_remove: '&3/shop remove <name/ID> &6- Elimina un item de la tienda'
+  msg_help_addalias: '&3/shop addalias <alias> &6- Agrega un alias al item en la mano'
+  msg_help_delalias: '&3/shop delalias <alias> &6- Elimina un alias al item en la
+    mano'
+  msg_help_listalias: '&3/shop listalias [item/ID] &6- Ver todos los alias'
+  msg_needitem: '&cTienes que tener un item en tu mano.'
+  msg_itemNotInShop: '&cNo puede ser vendido en la tienda'
+  msg_itemAlreadyInShop: '&cYa esta en la tienda'
+  msg_bought: '&7Comprado/s &6%amount% %type% (%itemid%) &7por %money%'
+  msg_sold: '&7Vendido/s &6%amount% %type% &7por %money%'
+  msg_cannotSold: '&cEste item no puede ser vendido.'
+  msg_notEnoughMoney: '&cNo tienes suficiente dinero. Necesitas: %neededmoney%'
+  msg_price: '&6%type% &7(%itemid%): Precio de compra &6%buyprice% &7| Precio de venta:
+    &6%sellprice%'

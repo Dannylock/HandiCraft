@@ -1,0 +1,54 @@
+uuid: dd28669a-e9e5-324a-832b-971887a3853a
+timestamps:
+  login: 1417048802617
+  logout: 1417049575293
+  lastteleport: 1417049015631
+  kits:
+    tools: 1404164338239
+  mute: 0
+ipAddress: 201.189.79.84
+nickname: §6§lThe§4§lRabajiin§m§l777§1§lgamer§8§lHDrexOMG
+afk: false
+logoutlocation:
+  world: Spawn
+  x: 284.0565128257066
+  y: 7.811489002627828
+  z: 116.83455870383145
+  yaw: 242.70654
+  pitch: 14.90173
+lastlocation:
+  world: Ciudades
+  x: -287.58037340300933
+  y: 69.96937498206056
+  z: 216.85433048180423
+  yaw: 0.0019366086
+  pitch: 5.100017
+godmode: false
+socialspy: false
+money: '1022201216248.0'
+homes:
+  home:
+    world: Otros
+    x: 412.9562240210671
+    y: 14.883258278299756
+    z: 1203.551452254656
+    yaw: 88.500916
+    pitch: 4.3500094
+  casa:
+    world: Capital
+    x: -332.0418868266625
+    y: 78.0
+    z: -25.92500001192093
+    yaw: -183.79893
+    pitch: 12.449997
+  ciudad:
+    world: ciudad
+    x: 301.20727638678807
+    y: 80.62303560100811
+    z: 207.022829721339
+    yaw: -284.82233
+    pitch: 24.149996
+ban:
+  reason: '§4Baneado: §r nuv'
+  timeout: 0
+muted: false
